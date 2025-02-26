@@ -1,0 +1,92 @@
+{
+    "words_result": {
+        "PurchaserAddress": "",
+        "PurchaserBank": "",
+        "Password": "6/3><-</<3*229208/07*98<<4568*11590++5397<+1/394<>9*>85+9*<578<32114*>29621/1>8<8<>094+<11*>/88/7<79/455>/<>",
+        "CommodityVehicleType": [],
+        "SellerRegisterNum": "915404002196710523",
+        "SellerBank": "中国农业银行股份有限公司林芝厦门广场支行25-780001040004065",
+        "CommodityNum": [
+            {
+                "row": "1",
+                "word": "61.39"
+            }
+        ],
+        "CommodityAmount": [
+            {
+                "row": "1",
+                "word": "486.73"
+            }
+        ],
+        "InvoiceType": "电子普通发票",
+        "AmountInWords": "伍佰伍拾圆整",
+        "TotalTax": "63.27",
+        "MachineCode": "661814604581",
+        "City": "",
+        "InvoiceNumDigit": "",
+        "Checker": "刘海霞",
+        "InvoiceCode": "054002300111",
+        "SellerAddress": "西蔺林芝市巴宜区八一镇八一大街339号0894-5822385",
+        "CommodityPrice": [
+            {
+                "row": "1",
+                "word": "7.92848998"
+            }
+        ],
+        "NoteDrawer": "索朗其律",
+        "Province": "西藏自治区",
+        "InvoiceNum": "08827820",
+        "CommodityTaxRate": [
+            {
+                "row": "1",
+                "word": "13%"
+            }
+        ],
+        "ServiceType": "交通",
+        "InvoiceDate": "2024年04月13日",
+        "CommodityEndDate": [],
+        "PurchaserRegisterNum": "91540400MADA7TGT62",
+        "CommodityStartDate": [],
+        "TotalAmount": "486.73",
+        "SheetNum": "",
+        "CommodityPlateNum": [],
+        "PurchaserName": "东方园林生态工程有限公司林芝分公司",
+        "SellerName": "中国石油天然气股份有限公司西藏林芝销售分公司",
+        "InvoiceNumConfirm": "08827820",
+        "Agent": "否",
+        "InvoiceTag": "成品油",
+        "CommodityUnit": [
+            {
+                "row": "1",
+                "word": "升"
+            }
+        ],
+        "CheckCode": "51721847172025082733",
+        "InvoiceTypeOrg": "西藏增值税电子普通发票",
+        "InvoiceCodeConfirm": "054002300111",
+        "Remarks": "",
+        "Payee": "陈海梅",
+        "CommodityTax": [
+            {
+                "row": "1",
+                "word": "63.27"
+            }
+        ],
+        "AmountInFiguers": "550.00",
+        "CommodityName": [
+            {
+                "row": "1",
+                "word": "*汽油*92号车用汽油(VIB)"
+            }
+        ],
+        "CommodityType": [
+            {
+                "row": "1",
+                "word": "92#汽油"
+            }
+        ],
+        "OnlinePay": ""
+    },
+    "words_result_num": 46,
+    "log_id": 1894576355531131036
+}

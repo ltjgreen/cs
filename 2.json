@@ -1,0 +1,347 @@
+{
+    "words_result": {
+        "PurchaserAddress": "",
+        "PurchaserBank": "",
+        "Password": "",
+        "CommodityVehicleType": [],
+        "SellerRegisterNum": "91500105774865227K",
+        "SellerBank": "",
+        "CommodityNum": [
+            {
+                "row": "1",
+                "word": "25"
+            },
+            {
+                "row": "2",
+                "word": "92"
+            },
+            {
+                "row": "3",
+                "word": "14"
+            },
+            {
+                "row": "4",
+                "word": "90"
+            },
+            {
+                "row": "5",
+                "word": "20"
+            },
+            {
+                "row": "6",
+                "word": "120"
+            },
+            {
+                "row": "7",
+                "word": "94"
+            },
+            {
+                "row": "8",
+                "word": "46"
+            },
+            {
+                "row": "9",
+                "word": "1112"
+            }
+        ],
+        "CommodityAmount": [
+            {
+                "row": "1",
+                "word": "674036.70"
+            },
+            {
+                "row": "2",
+                "word": "312040.37"
+            },
+            {
+                "row": "3",
+                "word": "146113.76"
+            },
+            {
+                "row": "4",
+                "word": "109568.81"
+            },
+            {
+                "row": "5",
+                "word": "60862.39"
+            },
+            {
+                "row": "6",
+                "word": "146091.74"
+            },
+            {
+                "row": "7",
+                "word": "212577.98"
+            },
+            {
+                "row": "8",
+                "word": "96009.17"
+            },
+            {
+                "row": "9",
+                "word": "38766.97"
+            }
+        ],
+        "InvoiceType": "电子发票(普通发票)",
+        "AmountInWords": "壹佰玖拾伍万柒仟柒佰壹拾肆圆整",
+        "TotalTax": "161646.11",
+        "MachineCode": "",
+        "City": "",
+        "InvoiceNumDigit": "",
+        "Checker": "",
+        "InvoiceCode": "",
+        "SellerAddress": "",
+        "CommodityPrice": [
+            {
+                "row": "1",
+                "word": "26961.4678899083"
+            },
+            {
+                "row": "2",
+                "word": "3391.74311926606"
+            },
+            {
+                "row": "3",
+                "word": "10436.6972477064"
+            },
+            {
+                "row": "4",
+                "word": "1217.43119266055"
+            },
+            {
+                "row": "5",
+                "word": "3043.11926605505"
+            },
+            {
+                "row": "6",
+                "word": "1217.43119266055"
+            },
+            {
+                "row": "7",
+                "word": "2261.46788990826"
+            },
+            {
+                "row": "8",
+                "word": "2087.15596330275"
+            },
+            {
+                "row": "9",
+                "word": "34.8623853211009"
+            }
+        ],
+        "NoteDrawer": "杜小苹",
+        "Province": "",
+        "InvoiceNum": "24502000000006804478",
+        "CommodityTaxRate": [
+            {
+                "row": "1",
+                "word": "9%"
+            },
+            {
+                "row": "2",
+                "word": "9%"
+            },
+            {
+                "row": "3",
+                "word": "9%"
+            },
+            {
+                "row": "4",
+                "word": "9%"
+            },
+            {
+                "row": "5",
+                "word": "9%"
+            },
+            {
+                "row": "6",
+                "word": "9%"
+            },
+            {
+                "row": "7",
+                "word": "9%"
+            },
+            {
+                "row": "8",
+                "word": "9%"
+            },
+            {
+                "row": "9",
+                "word": "9%"
+            }
+        ],
+        "ServiceType": "其他",
+        "InvoiceDate": "2024年01月24日",
+        "CommodityEndDate": [],
+        "PurchaserRegisterNum": "91110000102116928R",
+        "CommodityStartDate": [],
+        "TotalAmount": "1796067.89",
+        "SheetNum": "",
+        "CommodityPlateNum": [],
+        "PurchaserName": "北京东方园林环境股份有限公司",
+        "SellerName": "重庆营造市政工程有限公司",
+        "InvoiceNumConfirm": "24502000000006804478",
+        "Agent": "否",
+        "InvoiceTag": "其他",
+        "CommodityUnit": [
+            {
+                "row": "1",
+                "word": "株"
+            },
+            {
+                "row": "2",
+                "word": "株"
+            },
+            {
+                "row": "3",
+                "word": "株"
+            },
+            {
+                "row": "4",
+                "word": "株"
+            },
+            {
+                "row": "5",
+                "word": "株"
+            },
+            {
+                "row": "6",
+                "word": "株"
+            },
+            {
+                "row": "7",
+                "word": "株"
+            },
+            {
+                "row": "8",
+                "word": "株"
+            },
+            {
+                "row": "9",
+                "word": "株"
+            }
+        ],
+        "CheckCode": "",
+        "InvoiceTypeOrg": "电子发票(普通发票)",
+        "Remarks": "项目名称:重庆两江新区环境治理鱼复片区(PPP)项目所在地:重庆两江新区",
+        "Payee": "",
+        "CommodityTax": [
+            {
+                "row": "1",
+                "word": "60663.30"
+            },
+            {
+                "row": "2",
+                "word": "28083.63"
+            },
+            {
+                "row": "3",
+                "word": "13150.24"
+            },
+            {
+                "row": "4",
+                "word": "9861.19"
+            },
+            {
+                "row": "5",
+                "word": "5477.61"
+            },
+            {
+                "row": "6",
+                "word": "13148.26"
+            },
+            {
+                "row": "7",
+                "word": "19132.02"
+            },
+            {
+                "row": "8",
+                "word": "8640.83"
+            },
+            {
+                "row": "9",
+                "word": "3489.03"
+            }
+        ],
+        "AmountInFiguers": "1957714.00",
+        "CommodityName": [
+            {
+                "row": "1",
+                "word": "*林业产品*皂荚"
+            },
+            {
+                "row": "2",
+                "word": "*林业产品*染井吉野"
+            },
+            {
+                "row": "3",
+                "word": "*林业产品*蓝花楹"
+            },
+            {
+                "row": "4",
+                "word": "*林业产品*样树"
+            },
+            {
+                "row": "5",
+                "word": "*林业产品*美国红枫"
+            },
+            {
+                "row": "6",
+                "word": "*林业产品*石榴"
+            },
+            {
+                "row": "7",
+                "word": "*林业产品*蓝花糯"
+            },
+            {
+                "row": "8",
+                "word": "*林业产品*栾树"
+            },
+            {
+                "row": "9",
+                "word": "*林业产品*丛生夹竹桃"
+            }
+        ],
+        "CommodityType": [
+            {
+                "row": "1",
+                "word": "胸径40-42"
+            },
+            {
+                "row": "2",
+                "word": "高度5-6"
+            },
+            {
+                "row": "3",
+                "word": "胸径20"
+            },
+            {
+                "row": "4",
+                "word": "胸径12"
+            },
+            {
+                "row": "5",
+                "word": "胸径12"
+            },
+            {
+                "row": "6",
+                "word": "高度2.5-3"
+            },
+            {
+                "row": "7",
+                "word": "胸径16"
+            },
+            {
+                "row": "8",
+                "word": "高度22"
+            },
+            {
+                "row": "9",
+                "word": "高度1.5-1.8"
+            }
+        ],
+        "OnlinePay": ""
+    },
+    "words_result_num": 45,
+    "log_id": 1894576355769642612
+}

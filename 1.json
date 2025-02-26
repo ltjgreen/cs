@@ -1,0 +1,71 @@
+{
+    "words_result": {
+        "PurchaserAddress": "",
+        "PurchaserBank": "",
+        "Password": "",
+        "CommodityVehicleType": [],
+        "SellerRegisterNum": "91510705MACBWNY455",
+        "SellerBank": "",
+        "CommodityNum": [],
+        "CommodityAmount": [
+            {
+                "row": "1",
+                "word": "458715.60"
+            }
+        ],
+        "InvoiceType": "电子发票(专用发票)",
+        "AmountInWords": "伍拾万圆整",
+        "TotalTax": "41284.40",
+        "MachineCode": "",
+        "City": "",
+        "InvoiceNumDigit": "",
+        "Checker": "",
+        "InvoiceCode": "",
+        "SellerAddress": "",
+        "CommodityPrice": [],
+        "NoteDrawer": "张铃",
+        "Province": "",
+        "InvoiceNum": "24512000000170049364",
+        "CommodityTaxRate": [
+            {
+                "row": "1",
+                "word": "9%"
+            }
+        ],
+        "ServiceType": "服务",
+        "InvoiceDate": "2024年08月19日",
+        "CommodityEndDate": [],
+        "PurchaserRegisterNum": "91540400MADA7TGT62",
+        "CommodityStartDate": [],
+        "TotalAmount": "458715.60",
+        "SheetNum": "",
+        "CommodityPlateNum": [],
+        "PurchaserName": "东方园林生态工程有限公司林芝分公司",
+        "SellerName": "四川乾铃顺建筑装饰有限公司",
+        "InvoiceNumConfirm": "24512000000170049364",
+        "Agent": "否",
+        "InvoiceTag": "建筑服务",
+        "CommodityUnit": [],
+        "CheckCode": "",
+        "InvoiceTypeOrg": "电子发票(增值税专用发票)",
+        "Remarks": "土地增值税项目编号:-:跨地(市)标志:是:工程地点;林芝市巴宜区鲁朗镇拉月村",
+        "Payee": "",
+        "CommodityTax": [
+            {
+                "row": "1",
+                "word": "41284.40"
+            }
+        ],
+        "AmountInFiguers": "500000.00",
+        "CommodityName": [
+            {
+                "row": "1",
+                "word": "*建筑服务*工程服务"
+            }
+        ],
+        "CommodityType": [],
+        "OnlinePay": ""
+    },
+    "words_result_num": 45,
+    "log_id": 1894576352962584662
+}
